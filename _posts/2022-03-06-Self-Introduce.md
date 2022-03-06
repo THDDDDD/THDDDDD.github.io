@@ -1,6 +1,7 @@
-    ---
-    layout: post
-    title: 你好鸭~
-    ---
+---
+layout: post
+title: 你好鸭~
+---
     
-    第一次见面请多关照！ 
+    
+第一次见面请多关照！ 
